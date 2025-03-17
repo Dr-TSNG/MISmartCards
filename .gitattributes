@@ -1,0 +1,2 @@
+system/** filter=lfs diff=lfs merge=lfs -text
+wallet.apk filter=lfs diff=lfs merge=lfs -text

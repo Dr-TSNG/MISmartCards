@@ -1,0 +1,7 @@
+id=mismartcards
+name=Xiaomi Smart Cards
+version=v1
+versionCode=1
+author=Nullptr
+description=Enable NFC emulation for HyperOS
+updateJson=https://api.nullptr.icu/android/mismartcards/static/update.json
